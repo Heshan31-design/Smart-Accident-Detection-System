@@ -21,7 +21,8 @@ This project is designed to improve road safety by enabling early detection of a
 | Resource | Link |
 |----------|------|
 | 🔧 Circuit Simulation | [View on Wokwi](https://wokwi.com/projects/465315007087625217) |
-| 📱 IoT Dashboard | [View on Blynk](https://blynk.cloud/dashboard/1064591/global/devices/287288/organization/1064591/devices/4040988/dashboard) |
+| 📱 IoT Dashboard | <img width="382" height="641" alt="image" src="https://github.com/user-attachments/assets/318da9b6-1433-4400-ab59-ce4fe94d0c0f" />
+ |
 | 💻 Source Code | (https://github.com/Heshan31-design/Smart-Accident-Detection-System) |
 
 ---
