@@ -143,9 +143,9 @@ if (distance < 15 cm)      → Obstacle Detected → LED Alert
 
 ```
 images/
-├──<img width="940" height="409" alt="image" src="https://github.com/user-attachments/assets/5ebeb31a-dccb-450d-90e7-31543d7ab24a" />
+<img width="940" height="409" alt="image" src="https://github.com/user-attachments/assets/5ebeb31a-dccb-450d-90e7-31543d7ab24a" />
 
-├── <img width="382" height="641" alt="image" src="https://github.com/user-attachments/assets/5268d2d0-3b38-48bd-a184-240a884a0bb5" />
+<img width="382" height="641" alt="image" src="https://github.com/user-attachments/assets/5268d2d0-3b38-48bd-a184-240a884a0bb5" />
 
 
 ```
